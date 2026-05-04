@@ -1,2 +1,2 @@
-# LHCTNetProjectCode
+# LHCTNet - research project code 
 

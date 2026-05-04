@@ -1,0 +1,6 @@
+Split,Total,Class_0_Count,Class_0_Pct,Class_1_Count,Class_1_Pct,Class_2_Count,Class_2_Pct,Class_3_Count,Class_3_Pct,Class_4_Count,Class_4_Pct
+train,2563,1263,49.3,259,10.1,699,27.3,135,5.3,207,8.1
+val,549,271,49.4,55,10.0,150,27.3,29,5.3,44,8.0
+test,550,271,49.3,56,10.2,150,27.3,29,5.3,44,8.0
+idrid,516,168,32.6,25,4.8,168,32.6,93,18.0,62,12.0
+eyepacs,3000,2204,73.5,209,7.0,452,15.1,74,2.5,61,2.0

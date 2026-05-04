@@ -1,0 +1,2 @@
+Model,Total_Epochs,Best_Epoch,Training_Time,Best_Val_QWK,Parameters
+lhctnet_full,20,15,2:40:46,0.863,32447483

@@ -1,0 +1,5 @@
+Model,Parameters_M,CPU_Inference_ms,CPU_Inference_std,Meets_Param_Target,Meets_Latency_Target
+efficientnet_only,4.67,29.44,3.02,True,True
+swin_only,27.91,90.36,8.12,False,True
+lhctnet_concat,32.18,107.69,5.49,False,True
+lhctnet_full,32.45,104.19,6.15,False,True

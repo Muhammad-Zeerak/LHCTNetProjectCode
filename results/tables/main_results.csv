@@ -1,0 +1,5 @@
+Model,Accuracy,QWK,Macro_F1,Weighted_F1,Macro_AUC,Binary_Sensitivity,Binary_Specificity,Binary_AUC
+efficientnet_only,0.6164,0.8033,0.4348,0.5886,0.0,0.7713,0.9755,0.947
+swin_only,0.7564,0.8762,0.6253,0.7682,0.0,0.8475,0.9511,0.9556
+lhctnet_concat,0.7455,0.8625,0.6032,0.7574,0.0,0.8834,0.948,0.961
+lhctnet_full,0.7091,0.8475,0.5722,0.7303,0.0,0.8969,0.9358,0.9646

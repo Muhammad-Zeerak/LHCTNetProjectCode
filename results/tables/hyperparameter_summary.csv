@@ -1,0 +1,5 @@
+Model,Learning_Rate,Backbone_LR,Weight_Decay,Batch_Size,Max_Epochs,Label_Smoothing,Warmup_Epochs,Grad_Clip,Fusion_Dim,Classifier_Hidden,Dropout
+efficientnet_only,0.0001,1e-05,0.01,32,25,0.1,2,1.0,256,512,0.3
+swin_only,0.0001,1e-05,0.01,32,25,0.1,2,1.0,256,512,0.3
+lhctnet_concat,0.0001,1e-05,0.01,32,25,0.1,2,1.0,256,512,0.3
+lhctnet_full,0.0001,1e-05,0.01,32,25,0.1,2,1.0,256,512,0.3
