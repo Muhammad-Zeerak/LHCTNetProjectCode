@@ -74,8 +74,8 @@ IDRiD and EyePACS are **completely held out** — never seen during training or 
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/LHCTNet.git
-cd LHCTNet
+git clone https://github.com/Muhammad-Zeerak/LHCTNetProjectCode.git
+cd LHCTNetProjectCode
 pip install -r requirements.txt
 ```
 
